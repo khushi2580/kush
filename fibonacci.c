@@ -16,7 +16,7 @@ void main()
     f2=f3;
     f3=f1+f2;
     }
-    printf("*************fibonacci series are:%d,%d,%d",f1,f2,f3);
+    printf("fibonacci series are*****************:%d,%d,%d",f1,f2,f3);
     return 0;
 
 }
