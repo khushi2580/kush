@@ -8,7 +8,7 @@ int main()
 
   for(i = 1; i <= Number; i++)
   {
-     Sum = Sum + i;
+     Sum = Sum + 0;
   }
 
   printf("Sum of Natural Numbers = %d", Sum);
